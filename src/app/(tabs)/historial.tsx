@@ -160,7 +160,9 @@ function Fiados() {
           <Text style={{ color: '#E5D8FB', fontSize: 12 }}>Total por cobrar</Text>
           <Text style={{ color: '#fff', fontSize: 24, fontWeight: '800' }}>{dinero(totalPendiente, m)}</Text>
         </View>
-        <Text style={{ color: '#E5D8FB', fontSize: 12 }}>{clientes.length} clientes</Text>
+        <Text style={{ color: '#E5D8FB', fontSize: 12 }}>
+          {clientes.length} {clientes.length === 1 ? 'cliente' : 'clientes'}
+        </Text>
       </View>
 
       {ordenados.length === 0 ? (
