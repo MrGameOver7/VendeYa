@@ -60,7 +60,7 @@ Usamos el formato *Conventional Commits*: `tipo: descripción en presente`.
 | Integrante | Usuario | Módulos / tareas |
 | --- | --- | --- |
 | Marines Quincho Rony | @MrGameOver7 | Arquitectura, navegación, estado global (`src/store`), Venta y Revisar Orden, revisión de PRs |
-| Cajusol Bustamante José Antonio | @Cajusol11 | Requerimientos, Inventario y formulario de producto |
+| Cajusol Bustamante José Antonio | @JoseCajusol | Requerimientos, Inventario y formulario de producto |
 | Huamán Ventura Milton | @Roger282002 | Diseño UI/UX, componentes (`src/components`), Catálogo y Ajustes |
 | Terrones Navarro Juan Alexis | @Alexisterron | Pruebas, Historial y Cuaderno de fiados, documentación |
 

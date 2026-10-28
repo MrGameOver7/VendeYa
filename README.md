@@ -77,7 +77,7 @@ Para generar un APK instalable se usará EAS Build: `npx eas-cli@latest build -p
 | Integrante | Usuario de GitHub | Rol |
 | --- | --- | --- |
 | Marines Quincho Rony (líder) | [@MrGameOver7](https://github.com/MrGameOver7) | Coordinador y desarrollador React Native |
-| Cajusol Bustamante José Antonio | [@Cajusol11](https://github.com/Cajusol11) | Analista de requerimientos y desarrollador |
+| Cajusol Bustamante José Antonio | [@JoseCajusol](https://github.com/JoseCajusol) | Analista de requerimientos y desarrollador |
 | Huamán Ventura Milton | [@Roger282002](https://github.com/Roger282002) | Diseñador UI/UX y desarrollador |
 | Terrones Navarro Juan Alexis | [@Alexisterron](https://github.com/Alexisterron) | Responsable de pruebas (QA) y documentación |
 
